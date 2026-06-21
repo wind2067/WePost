@@ -1,0 +1,32 @@
+
+  博群WePost 服务已启动
+  访问地址: http://localhost:3000
+
+[WeiboAutomation] 页面 URL: https://weibo.com/
+[WeiboAutomation] 可见性=private 或有图片，直接使用 UI 方式
+[WeiboAutomation] 切换到 UI 方式发帖...
+[WeiboAutomation] 找到发布框
+[WeiboAutomation] 编辑框标签: textarea
+[WeiboAutomation] 图片已通过 UI 上传
+[WeiboAutomation] 设置可见性: 仅自己可见
+[WeiboAutomation] 找到 1 个含"公开"的元素
+[WeiboAutomation] 公开元素#0: tag=DIV class=_text_1oo0f_5 box={"x":771,"y":313,"w":24,"h":15}
+[WeiboAutomation] 下拉菜单中未找到: 仅自己可见
+[WeiboAutomation] 下拉菜单可见文字: ["1无障碍","1","无障碍","首页","全部关注","最新微博","特别关注","好友圈","自定义分组管理","自定义分组","管理","名人明星","同事","同学","悄悄关注","11内容声明","11","内容声明","焦点","表情图片视频话题头条文章更多","表情","图片","视频","话题","头条文章","更多","公开","发送","全部原创视频V+微博群微博","全部"]
+[WeiboAutomation] 已点击发送按钮
+[Scheduler] [1/1] wind_2067: ✓ 发布成功（UI）
+[Scheduler] 任务完成: 成功 1, 失败 0
+[WeiboAutomation] 页面 URL: https://weibo.com/
+[WeiboAutomation] 可见性=private 或有图片，直接使用 UI 方式
+[WeiboAutomation] 切换到 UI 方式发帖...
+[WeiboAutomation] 找到发布框
+[WeiboAutomation] 编辑框标签: textarea
+[WeiboAutomation] 图片已通过 UI 上传
+[WeiboAutomation] 设置可见性: 仅自己可见
+[WeiboAutomation] 找到 1 个含"公开"的元素
+[WeiboAutomation] 公开元素#0: tag=DIV class=_text_1oo0f_5 box={"x":771,"y":313,"w":24,"h":15}
+[WeiboAutomation] 下拉菜单中未找到: 仅自己可见
+[WeiboAutomation] 下拉菜单可见文字: ["1无障碍","1","无障碍","首页","全部关注","最新微博","特别关注","好友圈","自定义分组管理","自定义分组","管理","名人明星","同事","同学","悄悄关注","11内容声明","11","内容声明","焦点","表情图片视频话题头条文章更多","表情","图片","视频","话题","头条文章","更多","公开","发送","全部原创视频V+微博群微博","全部"]
+[WeiboAutomation] 已点击发送按钮
+[Scheduler] [1/1] wind_2067: ✓ 发布成功（UI）
+[Scheduler] 任务完成: 成功 1, 失败 0
